@@ -4,6 +4,8 @@ RabbitMaid Lab is an ongoing research project focused on understanding and impro
 
 The goal is not only to build better AI characters, but also to document why common AI failures happen, how current approaches attempt to solve them, and how RabbitMaid experiments with alternative solutions.
 
+RabbitMaid Lab documents observed LLM behavior rather than claiming definitive knowledge of internal model mechanisms.
+
 ## Research Areas
 
 - Character consistency
