@@ -6,6 +6,8 @@ The goal is not only to build better AI characters, but also to document why com
 
 RabbitMaid Lab documents observed LLM behavior rather than claiming definitive knowledge of internal model mechanisms.
 
+Unless explicitly stated otherwise, explanations are working hypotheses derived from reproducible observations.
+
 ## Research Areas
 
 - Character consistency
